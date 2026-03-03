@@ -1,0 +1,1 @@
+gpio;gpiod;gpios;gpiosd;perifra;pigpio;pigpiocgi;pigpiocgicatch;pigpiocgid;pigpiod;pigpios;pigpiosd;rpgpiocgicatch;rpgpiosd;rpigpio;rpigpiocgi;rpigpiocgid;rpigpiod
